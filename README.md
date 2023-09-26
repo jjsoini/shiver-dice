@@ -1,12 +1,12 @@
 # Owlbear Rodeo Dice
 
-Beautiful 3D dice extension for d20 based systems
+Shiver Dice extension for Owlbear Rodeo 2
 
 ![Example](/docs/header.jpg)
 
 ## Installing
 
-The extension can be installed from the [store page](https://extensions.owlbear.rodeo/dice).
+...
 
 ## How it Works
 
@@ -21,8 +21,6 @@ Short answer yes, the dice are fair. Long answer [here's a statistical analysis]
 In order to sync rolls over the network efficiently we rely on the fact the Rapier is a deterministic physics engine. This means that across two different computers we'll get the same result given the same initial parameters.
 
 So we only need to make sure that all the initial parameters are synced and then each client can run its own simulation and end up with the correct animation.
-
-To try out the dice roller outside of Owlbear Rodeo you can head to <https://dice.owlbear.rodeo/>.
 
 ## Building
 
@@ -62,10 +60,4 @@ All the code specific for the Owlbear Rodeo extension is in the `plugin` folder.
 
 GNU GPLv3
 
-## Contributing
-
-This project is provided as an example of how to use the Owlbear Rodeo SDK. As such it is unlikely that we will accept pull requests for new features.
-
-Instead we encourage you to fork this repository and build the dice roller of your dreams.
-
-Copyright (C) 2023 Owlbear Rodeo
+Copyright (C) 2023 Jussi Soini
