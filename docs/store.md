@@ -2,13 +2,12 @@
 title: Shiver Dice
 description: Beautiful 3D Shiver Dice
 author: Jussi Soini / Pulpscape
-image: https://raw.githubusercontent.com/owlbear-rodeo/dice/main/docs/header.jpg
-icon: https://dice.owlbear.rodeo/logo.png
+image: https://raw.githubusercontent.com/jjsoini/shiver-dice/master/docs/header.jpg
+icon: https://shiver-dice-for-obr.onrender.com/logo.png
 tags:
   - shiver-rpg
   - dice
-manifest: https://dice.owlbear.rodeo/manifest.json
-learn-more: https://owlbear.app
+manifest: https://shiver-dice-for-obr.onrender.com//manifest.json
 ---
 
 # Shiver Skill and Talent Dice
