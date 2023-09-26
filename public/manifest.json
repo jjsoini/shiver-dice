@@ -1,0 +1,16 @@
+{
+  "name": "Shiver Dice",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "author": "Jussi Soini",
+  "icon": "/logo.png",
+  "description": "Beautiful 3D dice extension for Shiver",
+  "action": {
+    "title": "Shiver Dice",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 700,
+    "width": 375
+  },
+  "background_url": "/background.html"
+}
